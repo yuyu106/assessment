@@ -60,6 +60,7 @@ assessmentButton.onclick = () => {
 
 
 const answers = [
+    '{userName}はミニーと仲良し！',
     '{userName}は白雪姫と仲良し！',
     '{userName}はシンデレラと仲良し！',
     '{userName}はオーロラと仲良し！',
